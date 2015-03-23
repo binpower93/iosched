@@ -16,7 +16,7 @@
   limitations under the License.
   -->
 
-<com.google.samples.apps.iosched.ui.widget.CollectionView
+<uk.ac.ntu.n0377645.fyp.ui.widget.CollectionView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:iosched="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

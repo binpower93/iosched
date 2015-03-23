@@ -51,7 +51,7 @@
 
     </LinearLayout>
 
-    <com.google.samples.apps.iosched.ui.widget.CollectionView
+    <uk.ac.ntu.n0377645.fyp.ui.widget.CollectionView
         android:id="@+id/collection_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
